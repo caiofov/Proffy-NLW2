@@ -13,3 +13,5 @@
 
 <b>Acknowledgment and copyrights</b>
 <p>I want to thank all NLW crew for this awesome course. For those who are reading this, I need to say that no files are mine: all of them was avaibled by the teachers.</p>
+
+> Resources: <a href="https://www.notion.so/Front-end-ab15ef64dbe7459aba38364cf60af9d2">Notion notes</a>
