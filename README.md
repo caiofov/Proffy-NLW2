@@ -6,3 +6,10 @@
 
 ## Files
 <li><b>index.html</b>: Main file</li> 
+</br>
+</br>
+</br>
+
+
+<b>Acknowledgment and copyrights</b>
+<p>I want to thank all NLW crew for this awesome course. For those who are reading this, I need to say that no files are mine: all of them was avaibled by the teachers.</p>
