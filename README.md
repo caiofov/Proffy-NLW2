@@ -5,7 +5,27 @@
 
 
 ## Files
-<li><b>index.html</b>: Main file</li> 
+<b>Folders</b>
+<li><b>images</b>: All images used in this project are located in that folder </li>
+<li><b>styles</b>: All style/css files used in this project are located in that folder </li>
+<br>
+<b>HTML files</b>
+<li><b>index.html</b>: Main page file</li>
+<li><b>page-study.html</b>: Page which students can find teachers</li> 
+<li><b>page-give-classes.html</b>: Teacher sign up page </li>
+<br>
+<b>CSS Files</b>
+<li><b>main.css</b>: Main css file (main style)</li>
+<li><b>forms.css</b>: All forms in this project use that file for shared style</li>
+<li><b>header.css</b>: The headers from study page and teacher sign up page use that file for style</li>
+<li><b>page-give-classes.css</b>: Style from teacher sign up page</li>
+<li><b>page-landing.css</b>: Style from main page</li>
+<li><b>page-student.css</b>: Style from student page</li>
+
+
+
+
+
 </br>
 </br>
 </br>
